@@ -1,2 +1,18 @@
-# Local Netlify folder
-.netlify
+# Netlify
+.netlify/
+.netlify/*
+site.zip
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+ehthumbs.db
+Desktop.ini
